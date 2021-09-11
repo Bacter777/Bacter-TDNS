@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bacter Tweaker</string>
+    <string-array name="Dns">
+        <item>Bacter Tweaker</item>
+        <item>Google DNS</item>
+        <item>Bacter DNS</item>
+        <item>Open DNS</item>
+    </string-array>
+    <string name="dnsText">8.8.8.8</string>
+</resources>
